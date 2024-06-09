@@ -1,0 +1,60 @@
+modrinth:
+  - tabtps
+  - easyauth
+  - Debugify
+  - carpet
+  - carpet-extra
+  - carpet-tctc-addition
+  - carpet-tis-addition
+  - essentialaddons
+  - gca
+  - minitweaks
+  - servercore
+  - vmp-fabric
+  - no-chat-reports
+  - quickshulker
+  - lithium
+  - magiclib
+  - sodium
+  - fabrictailor
+  - skinrestorer
+  - cloth-config
+  - fabric-language-kotlin
+  - yacl
+  - c2me-fabric
+  - luckperms
+  - spark
+  - jade
+  - anti-xray
+  - clumps
+  - deathlog
+  - essential-commands
+  - fabric-api
+  - image2map
+  - krypton
+  - mysql-jdbc
+  - owo-lib 
+  - show-me-what-you-got
+  - styledplayerlist
+  - no-unused-chunks
+  - simple-voice-chat
+  - invview
+  - vanish
+  - malilib
+  - servux
+  - syncmatica
+  - starlight
+  - ferrite-core
+  - memoryleakfix
+  - architectury-api
+  - lazydfu
+
+curseforge:
+  smoothchunk: 582327
+  chunksending-fabric: 831663
+special:
+  - github.com/MCTeamPotato/MCMOD
+  - commandspy
+config:
+  curseforgeApiKey: $2a$10$OgW/WP/tagNuFbsRVFlno.Wp1VvbXqakKywrEzLipmPErgzaKv6sq
+  showAlpha: true
