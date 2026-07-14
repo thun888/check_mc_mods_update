@@ -1,10 +1,11 @@
 modrinth:
   - tabtps
-  - easyauth
-  - Debugify
+  # - easyauth # no need
+  - bluemap
+  # - Debugify
   - carpet
   - carpet-extra
-  - carpet-tctc-addition
+  # - carpet-tctc-addition
   - carpet-tis-addition
   - essentialaddons
   - gca
@@ -12,7 +13,7 @@ modrinth:
   - servercore
   - vmp-fabric
   - no-chat-reports
-  - quickshulker
+  # - quickshulker # no new
   - lithium
   - magiclib
   - sodium
@@ -27,31 +28,33 @@ modrinth:
   - jade
   - anti-xray
   - clumps
-  - deathlog
+  # - deathlog # new
   - essential-commands
   - fabric-api
-  - image2map
+  # - image2map
   - krypton
-  - mysql-jdbc
+  - mysql-jdbc # 不受版本限制
   - owo-lib 
-  - show-me-what-you-got
+  # - show-me-what-you-got # no new
   - styledplayerlist
-  - no-unused-chunks
+  # - no-unused-chunks # deleted
   - simple-voice-chat
   - invview
   - vanish
   - malilib
   - servux
   - syncmatica
-  - starlight
+  # - starlight # no new
   - ferrite-core
-  - memoryleakfix
+  # - memoryleakfix # new no need
   - architectury-api
-  - lazydfu
+  # - lazydfu # new no need
+  - litematica
 
 curseforge:
   smoothchunk: 582327
-  chunksending-fabric: 831663
+  cupboard: 7906258
+  # chunksending-fabric: 831663
 special:
   - github.com/MCTeamPotato/MCMOD
   - commandspy
